@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="company_info_failure">Unable to get company info</string>
+    <string name="company">Company</string>
+    <string name="spacex">SpaceX</string>
+    <string name="launches">Launches</string>
+    <string name="unable_to_load_launches">Unable to load Launches</string>
+    <string name="filter">Filter</string>
+    <string name="apply_filter">Done</string>
+    <string name="filter_by_year">Filter By Year</string>
+    <string name="you_tube">Youtube</string>
+    <string name="wikipedia">Wikipedia</string>
+
+    <string name="article">article</string>
+
+</resources>
